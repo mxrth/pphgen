@@ -1,3 +1,6 @@
+!!ARCHIVED!!
+Find the current version in the github.com/mxrth/tools repository
+
 pphgen is a simple tool to generate secure passphrases
 
 install (assumes go 1.13 or newer in module mode):
